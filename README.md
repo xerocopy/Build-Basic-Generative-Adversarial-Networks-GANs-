@@ -9,6 +9,9 @@ Analyzing and Improving the Image Quality of StyleGAN [https://arxiv.org/abs/191
 Explore some cool GANs in an interactive way here—over the GANs specialization, you'll learn how these work and how you might apply them! [https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Pre_trained_model_exploration.ipynb](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Pre_trained_model_exploration.ipynb
 )
 
+Tensorflow's implementations come with some inherent limitations highlighted in the [article](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/).
+
+
 #### From the videos:
 
 Hyperspherical Variational Auto-Encoders (Davidson, Falorsi, De Cao, Kipf, and Tomczak, 2018):[https://www.researchgate.net/figure/Latent-space-visualization-of-the-10-MNIST-digits-in-2-dimensions-of-both-N-VAE-left_fig2_324182043](https://www.researchgate.net/figure/Latent-space-visualization-of-the-10-MNIST-digits-in-2-dimensions-of-both-N-VAE-left_fig2_324182043)
