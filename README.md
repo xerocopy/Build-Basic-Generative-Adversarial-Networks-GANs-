@@ -33,3 +33,15 @@ Large Scale GAN Training for High Fidelity Natural Image Synthesis (Brock, Donah
 PyTorch Documentation: [https://pytorch.org/docs/stable/index.html#pytorch-documentation](https://pytorch.org/docs/stable/index.html#pytorch-documentation)
 
 MNIST Database: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+
+
+### Week 2
+#### From the videos:
+
+Deconvolution and Checkerboard Artifacts (Odena et al., 2016): http://doi.org/10.23915/distill.00003
+
+#### From the notebook:
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016): https://arxiv.org/abs/1511.06434
+
+MNIST Database: http://yann.lecun.com/exdb/mnist/
