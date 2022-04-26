@@ -36,6 +36,9 @@ MNIST Database: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/m
 
 
 ### Week 2
+
+In this notebook, you're going to learn about TGAN, from the paper Temporal Generative Adversarial Nets with Singular Value Clipping [(Saito, Matsumoto, & Saito, 2017)](https://arxiv.org/pdf/1611.06624.pdf), and its origins in image generation. 
+
 #### From the videos:
 
 Deconvolution and Checkerboard Artifacts (Odena et al., 2016): http://doi.org/10.23915/distill.00003
