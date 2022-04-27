@@ -58,3 +58,17 @@ Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/17
 Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
 
 MNIST Database: http://yann.lecun.com/exdb/mnist/
+
+### Week 4
+
+Conditional Generative Adversarial Nets (Mirza and Osindero, 2014): https://arxiv.org/abs/1411.1784
+
+#### From the videos:
+
+Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020): https://arxiv.org/abs/1907.10786
+
+#### From the notebooks:
+
+MNIST Database: http://yann.lecun.com/exdb/mnist/
+
+CelebFaces Attributes Dataset (CelebA): http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
