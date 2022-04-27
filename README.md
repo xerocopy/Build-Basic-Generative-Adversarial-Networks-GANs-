@@ -48,3 +48,13 @@ Deconvolution and Checkerboard Artifacts (Odena et al., 2016): http://doi.org/10
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (Radford, Metz, and Chintala, 2016): https://arxiv.org/abs/1511.06434
 
 MNIST Database: http://yann.lecun.com/exdb/mnist/
+
+### Week 3
+
+#### From the notebook:
+
+Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/1701.07875
+
+Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
+
+MNIST Database: http://yann.lecun.com/exdb/mnist/
