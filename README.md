@@ -55,9 +55,12 @@ MNIST Database: http://yann.lecun.com/exdb/mnist/
 
 Wasserstein GAN (Arjovsky, Chintala, and Bottou, 2017): https://arxiv.org/abs/1701.07875
 
-In this notebook, you'll learn about and implement spectral normalization, a weight normalization technique to stabilize the training of the discriminator, as proposed in [Spectral Normalization for Generative Adversarial Networks (Miyato et al. 2018)](https://arxiv.org/abs/1802.05957).
-
 Improved Training of Wasserstein GANs (Gulrajani et al., 2017): https://arxiv.org/abs/1704.00028
+
+SN-GAN:  In this notebook, you'll learn about and implement spectral normalization, a weight normalization technique to stabilize the training of the discriminator, as proposed in [Spectral Normalization for Generative Adversarial Networks (Miyato et al. 2018)](https://arxiv.org/abs/1802.05957).
+
+The goal of this notebook is to demonstrate that core GAN ideas can be applied outside of the image domain. In this notebook, you will be able to play around with a pre-trained ProteinGAN model to see how it can be used in bioinformatics to generate functional molecules.
+[ProteinGAN](https://www.biorxiv.org/content/10.1101/789719v2) was developed by [Biomatters Designs](https://www.biomatterdesigns.com/) and [Zelezniak lab at Chalmers University of Technology](https://twitter.com/AZelezniak).
 
 MNIST Database: http://yann.lecun.com/exdb/mnist/
 
