@@ -68,6 +68,8 @@ MNIST Database: http://yann.lecun.com/exdb/mnist/
 
 Conditional Generative Adversarial Nets (Mirza and Osindero, 2014): https://arxiv.org/abs/1411.1784
 
+In this notebook, you're going to learn about InfoGAN in order to generate disentangled outputs, based on the paper, [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets by Chen et. al.](https://arxiv.org/abs/1606.03657) While there are many approaches to disentanglement, this is one of the more widely used and better known.
+
 #### From the videos:
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020): https://arxiv.org/abs/1907.10786
