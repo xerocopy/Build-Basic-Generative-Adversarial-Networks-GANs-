@@ -62,6 +62,8 @@ SN-GAN:  In this notebook, you'll learn about and implement spectral normalizati
 The goal of this notebook is to demonstrate that core GAN ideas can be applied outside of the image domain. In this notebook, you will be able to play around with a pre-trained ProteinGAN model to see how it can be used in bioinformatics to generate functional molecules.
 [ProteinGAN](https://www.biorxiv.org/content/10.1101/789719v2) was developed by [Biomatters Designs](https://www.biomatterdesigns.com/) and [Zelezniak lab at Chalmers University of Technology](https://twitter.com/AZelezniak).
 
+Want another explanation of WGAN? This article provides a great walkthrough of how WGAN addresses the difficulties of training a traditional GAN with a focus on the loss functions. From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
+
 MNIST Database: http://yann.lecun.com/exdb/mnist/
 
 ### Week 4
@@ -69,8 +71,6 @@ MNIST Database: http://yann.lecun.com/exdb/mnist/
 Conditional Generative Adversarial Nets (Mirza and Osindero, 2014): https://arxiv.org/abs/1411.1784
 
 In this notebook, you're going to learn about InfoGAN in order to generate disentangled outputs, based on the paper, [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets by Chen et. al.](https://arxiv.org/abs/1606.03657) While there are many approaches to disentanglement, this is one of the more widely used and better known.
-
-Want another explanation of WGAN? This article provides a great walkthrough of how WGAN addresses the difficulties of training a traditional GAN with a focus on the loss functions. From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
 #### From the videos:
 
