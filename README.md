@@ -70,6 +70,8 @@ Conditional Generative Adversarial Nets (Mirza and Osindero, 2014): https://arxi
 
 In this notebook, you're going to learn about InfoGAN in order to generate disentangled outputs, based on the paper, [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets by Chen et. al.](https://arxiv.org/abs/1606.03657) While there are many approaches to disentanglement, this is one of the more widely used and better known.
 
+Want another explanation of WGAN? This article provides a great walkthrough of how WGAN addresses the difficulties of training a traditional GAN with a focus on the loss functions. From GAN to WGAN (Weng, 2017): https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
+
 #### From the videos:
 
 Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang, and Zhou, 2020): https://arxiv.org/abs/1907.10786
