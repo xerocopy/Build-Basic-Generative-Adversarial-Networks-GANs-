@@ -81,3 +81,7 @@ Interpreting the Latent Space of GANs for Semantic Face Editing (Shen, Gu, Tang,
 MNIST Database: http://yann.lecun.com/exdb/mnist/
 
 CelebFaces Attributes Dataset (CelebA): http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+Seven Loss Functions that includes the Minimax loss (MM GAN), Non-Saturating loss (NS GAN), Wasserstein loss (WGAN), and Least-Squares loss (LS GAN) described above. The study also includes an extension of Wasserstein loss to remove the weight clipping called Wasserstein Gradient Penalty loss (WGAN GP) and two others, DRAGAN and BEGAN. Are GANs Created Equal? [A Large-Scale Study, 2018.](https://arxiv.org/abs/1711.10337)
+
+
